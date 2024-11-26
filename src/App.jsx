@@ -7,6 +7,7 @@ import { sharadContext } from "./context";
 import Count1 from "./count1";
 import Layout from "./layout";
 import Home from "./components/home";
+
 const App = () => {
   return (
     <>
